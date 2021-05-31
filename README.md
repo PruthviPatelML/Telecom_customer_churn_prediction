@@ -2,4 +2,4 @@
 
 Given three months of a customer’s telephonic data, we need to predict if the customer churns in the next month.
 
-Reference: https://medium.com/analytics-vidhya/telecom-churn-prediction-9ce72c24e961
+Reference: https://www.kaggle.com/khotijahs1/churn-prediction
